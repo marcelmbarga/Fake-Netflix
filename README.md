@@ -1,3 +1,10 @@
+Netflix clone build 📽️ 🍿
+
+we will build a Netflix clone! This React project has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, we will use Firebase auth to store the user in the Firebase auth database.
+
+![Build Screenshot](Fake-Netflix.png?raw=true "Build Screenshot")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
